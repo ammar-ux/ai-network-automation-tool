@@ -1,33 +1,13 @@
-# 🚀 AI Network Automation Tool (Cisco & Zabbix)
+## 🚀 What This Tool Solves
+Stop checking routers manually.
 
-AI-powered Telegram bot designed for NOC teams and network engineers.
+This tool automates:
+- Interface monitoring
+- Optical power checks
+- Zabbix comparison
+- AI troubleshooting
 
----
-
-## 🔥 Features
-- 📡 Real-time interface monitoring  
-- 📊 RX/TX optical power analysis  
-- 🔁 Compare live data with Zabbix history  
-- 🤖 AI-based troubleshooting suggestions  
-- ⚡ Fast execution (~15 seconds)
-
----
-
-## 🧠 Use Cases
-- NOC monitoring automation  
-- Network troubleshooting  
-- Performance analysis  
-- Reducing manual workload  
-
----
-
-## 💡 Demo Version
-This repository contains a **demo version** of the tool.
-
----
-
-## 💰 Full Version Available
-Want the full version with all features?
+⚡ Saves hours for NOC teams
 
 📩 Contact me:
 - LinkedIn  : www.linkedin.com/in/ammar-maan-a4aa0020b
