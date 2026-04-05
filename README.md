@@ -12,6 +12,7 @@ This tool automates:
 📩 Contact me:
 - LinkedIn  : www.linkedin.com/in/ammar-maan-a4aa0020b
 - Telegram  :Ammarmaan
+- phone : 009647702881910
 
 ---
 
