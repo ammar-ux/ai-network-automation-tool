@@ -30,8 +30,8 @@ This repository contains a **demo version** of the tool.
 Want the full version with all features?
 
 📩 Contact me:
-- LinkedIn  
-- Telegram  
+- LinkedIn  : www.linkedin.com/in/ammar-maan-a4aa0020b
+- Telegram  :Ammarmaan
 
 ---
 
